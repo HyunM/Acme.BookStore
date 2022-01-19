@@ -261,5 +261,6 @@ src/Acme.BookStore.DbMigrator/Logs/*
 src/Acme.BookStore.Blazor/Logs/*
 src/Acme.BookStore.Blazor.Tiered/Logs/*
 
+#Hyun Myung gitignore
 src/Acme.BookStore.DbMigrator/appsettings.json
 src/Acme.BookStore.Blazor/appsettings.json
